@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = trunk
+[pull]
+	rebase = true
+[user]
+	email = gevertoninc@gmail.com
+	name = Geverton
