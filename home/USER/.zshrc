@@ -87,8 +87,9 @@ plugins=(
 
 # Plugins - end
 
-# Source ZSH
+# Sources
 source $ZSH/oh-my-zsh.sh
+source $HOME/.minikube_autocomplete.sh
 
 # User configuration
 

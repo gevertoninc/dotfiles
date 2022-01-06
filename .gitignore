@@ -1,0 +1,5 @@
+# VSCode
+*.code-workspace
+
+# Local history
+.history
