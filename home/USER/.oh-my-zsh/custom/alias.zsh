@@ -4,4 +4,4 @@
 
 # You must run '. ~/.zshrc' for changes to make effect
 
-alias ls="exa -l --icons"
+alias ls='exa -l --icons'
